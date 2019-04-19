@@ -916,6 +916,7 @@
 
 ## License
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4775511ca96a4cb0b6e4311b8addc317)](https://app.codacy.com/app/Tw3akG33k/awesome-nodejs?utm_source=github.com&utm_medium=referral&utm_content=Tw3akG33k/awesome-nodejs&utm_campaign=Badge_Grade_Dashboard)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
